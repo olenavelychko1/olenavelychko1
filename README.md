@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently studying HBO-ICT (Software Engineering) at Hogeschool van Amsterdam.
+
+I highly suggest visiting my live website for a more convenient overview of my projects and tech stack!
+Live Website: https://olenavelychko1.github.io/
 
 # 💻 Tech Stack:
 
@@ -32,6 +36,7 @@ Here are some ideas to get you started:
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white)](https://www.chartjs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 
 ### 🛠️ Tools & IDEs
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
@@ -52,7 +57,7 @@ Here are some ideas to get you started:
 ### 🧪 Testing & Quality
 [![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)](https://www.cypress.io/)
 [![Vitest](https://img.shields.io/badge/-Vitest-252529?logo=vitest&logoColor=FCC72B)](https://vitest.dev/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)](https://eslint.org/)
+<!-- [![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)](https://eslint.org/) -->
 
 ### 📝 Markup Languages
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
