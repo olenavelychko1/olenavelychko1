@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 ### 🌐 Webtechnologies
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
 
 ### 💻 Programming languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -50,6 +47,7 @@ Here are some ideas to get you started:
 ### 🏗️ Build Tools
 [![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?logo=esbuild&logoColor=black)](https://esbuild.github.io/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
 
 ### 🧪 Testing & Quality
 [![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)](https://www.cypress.io/)
