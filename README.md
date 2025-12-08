@@ -51,13 +51,14 @@ Live Website: https://olenavelychko1.github.io/
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 
+<!--
 ### 🏗️ Build Tools
 [![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?logo=esbuild&logoColor=black)](https://esbuild.github.io/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/) -->
 
 ### 🧪 Testing & Quality
-[![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)](https://www.cypress.io/)
+<!-- [![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)](https://www.cypress.io/) -->
 [![Vitest](https://img.shields.io/badge/-Vitest-252529?logo=vitest&logoColor=FCC72B)](https://vitest.dev/)
 <!-- [![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)](https://eslint.org/) -->
 
